@@ -1,0 +1,21 @@
+{
+   "name": "Andrew Retherford",
+   "linkedin": "https://www.linkedin.com/in/andrew-retherford/",
+   "github": "https://github.com/andrewretherford",
+   "email": "andrewretherford@gmail.com",
+   "proficientTechnologies": [
+       "Javascript",
+       "React",
+       "HTML",
+       "Node",
+       "Express",
+       "Mongodb",
+       "Python",
+       "Django"
+   ],
+   "otherSkills": [
+       "Archery",
+       "Organization",
+       "Building"
+   ]
+}
